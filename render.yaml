@@ -9,11 +9,11 @@ services:
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
-        sync: false
+        sync: 6941086237:AAE_6l720Re0ihFaRs8SF473rtLH691IdoQ
       - key: API_ID
-        sync: false
+        sync: 27876684
       - key: API_HASH
-        sync: false
+        sync: 70423ab756112ab1bb7cbb62553f89e8
       - key: WEBHOOK
         sync: false
       - key: PORT
